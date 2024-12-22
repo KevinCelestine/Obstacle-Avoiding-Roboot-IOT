@@ -26,7 +26,7 @@ Screwdriver and assorted screws
 
 Glue Gun
 
-[image](https://github.com/user-attachments/assets/067439cd-ca0b-4287-a391-8d10a505a209)
+![Alt image]![image](https://github.com/user-attachments/assets/067439cd-ca0b-4287-a391-8d10a505a209)
 
 # Obstacle Avoiding Robot Circuit Diagram
 ![Alt image]![image](https://github.com/user-attachments/assets/721ec3d1-ef9e-4d80-aef4-2fb104c895b7)

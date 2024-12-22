@@ -34,5 +34,10 @@ Glue Gun
 # OutPut
 ![Alt image]![image](https://github.com/user-attachments/assets/af527180-514c-4ff8-8706-2efd993d83cf)
 
+# Certificate 
+ project completion certificate
+
+ ![Alt image}![iot](https://github.com/user-attachments/assets/bedd4d82-61c2-4f78-befe-f2c6b3d8741a)
+
 
 
